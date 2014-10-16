@@ -1,7 +1,7 @@
 ### Universal find-in-file notation
 I use this simple notation system in conjunction with a texteditor's find-in-file search function. The defined glyphs are used within comments, preferably at the start of new lines, and in most cases are followed by a concise accompanying note.
 
-##### Glyphs v3.0:
+##### Glyphs
 ```
   @@@ : NB      : Generic find-in-file prefix (for HTML, use <!--@@@ -->)
   >>> : MEAT    : Add some meat to this dummy/skeleton codeblock
